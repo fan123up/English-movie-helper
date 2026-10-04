@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "english-movie-helper",
+  "version": "1.0.0",
+  "description": "从 MKV 或 MP4 的内嵌中英文文本字幕生成双语 Word 学习文档。"
+}

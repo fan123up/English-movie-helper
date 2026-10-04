@@ -1,0 +1,33 @@
+# 电影和音视频
+*.mkv
+*.mp4
+*.mp3
+*.avi
+*.mov
+
+# 提取出的字幕
+*.srt
+*.ass
+*.ssa
+
+# 生成文档
+*.docx
+*.pdf
+
+# 压缩包和工具
+*.zip
+ffmpeg/
+ffmpeg-*/
+
+# Node 临时文件
+node_modules/
+
+# 验证与临时目录
+validation/
+temp/
+tmp/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini

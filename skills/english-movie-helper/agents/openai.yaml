@@ -1,0 +1,8 @@
+interface:
+  display_name: "English Movie Helper"
+  short_description: "提取 MKV/MP4 内嵌中英文字幕并生成双语 Word"
+  default_prompt: "使用 $english-movie-helper 从我的本地 MKV/MP4 提取内嵌中英文字幕，并生成双语 Word 学习文档。"
+
+policy:
+  allow_implicit_invocation: true
+
